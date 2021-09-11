@@ -1,0 +1,29 @@
+<svg width="35" height="35" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="37" width="37" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+  <g stroke="null" id="svg_15">
+   <g stroke="null" transform="matrix(0.06948711390252714,0,0,0.06948711390252714,-34.27306544030471,-21.511547914088204) " id="svg_12">
+    <title stroke="null" transform="translate(5.684341886080802e-14,0.8452907204627991) translate(0.8452538251876831,0) translate(5.684341886080802e-14,-82.07823181152344) translate(-76.29396057128906,0) translate(48.2022819519043,0) translate(-127.25390625,-15.424715995788574) translate(-466.8916320800781,-708.3872680664062) translate(1116.46630859375,0) translate(0,1116.46630859375) ">background</title>
+    <rect stroke="null" x="494.074345" y="310.421383" width="502" height="502" id="svg_10" fill="none"/>
+    <g stroke="null" id="svg_9" display="none">
+     <rect stroke="null" id="svg_13" width="35" height="35" x="495.074345" y="311.421383" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g stroke="null" transform="matrix(0.06948711390252714,0,0,0.06948711390252714,-34.27306544030471,-21.511547914088204) " id="svg_14">
+    <title stroke="null" transform="translate(5.684341886080802e-14,0.8452907204627991) translate(0.8452538251876831,0) translate(5.684341886080802e-14,-82.07823181152344) translate(-76.29396057128906,0) translate(48.2022819519043,0) translate(-127.25390625,-15.424715995788574) translate(-466.8916320800781,-708.3872680664062) translate(1116.46630859375,0) translate(0,1116.46630859375) ">Layer 1</title>
+    <rect stroke="#121212" fill="#bf0000" stroke-width="0" x="520.074345" y="336.421383" width="450" height="450" id="svg_8" rx="30"/>
+    <text stroke="#121212" fill="#ffffff" stroke-width="0" x="564.410283" y="647.921383" id="svg_7" font-size="250" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold" font-style="italic">7m</text>
+   </g>
+  </g>
+ </g>
+</svg>

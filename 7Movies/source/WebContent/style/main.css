@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,900');
+
+body {
+  font-size: 1rem;
+}
+
+.band{
+	max-height: 40vh;
+}
+
+.logo-loc{
+	height: 100px;
+	width: 100px;
+	position: absolute;
+}
+
+.navbar-brand{
+	width: 50px;
+	height: 50px;
+}
+
+.card-image-overlay{
+	-moz-hyphens:auto;
+	-ms-hyphens:auto;
+	-webkit-hyphens:auto;
+	hyphens:auto;
+	word-break:break-all;
+	overflow-wrap: break-word;
+}
+
+h5.recent, p.recent {
+    background-color: black;
+    width: max-content;
+    padding:5px;
+	word-break:break-all;
+}
+
+.search-card{
+	width: auto;
+	max-height: 300px;
+}
+
+
+
+.top{
+	padding-top: 50px;
+}
+
+.title{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+}
+
+html, * {
+  font-size: 1rem;
+}
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 1198.98px) { 
+	
+	body {
+    font-size: 1.4rem;
+  }
+	
+}
